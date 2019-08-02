@@ -1,19 +1,13 @@
 import React, { Component } from "react";
+import { BrowserRouter, Route } from "react-router-dom";
 import "./App.css";
-import Home from "./components/Home";
-import Menu from "./layout/Menu";
+import About from "./components/About";
+import Bookshelf from "./components/Bookshelf";
+import People from "./components/People";
 
 class App extends Component {
   render() {
-    return (
-      <div className="app">
-        <div className="main-body">
-          <Home />
-        </div>
-        
-        <Menu />
-      </div>
-    );
+    return <div>Hey there</div>;
   }
 }
 
