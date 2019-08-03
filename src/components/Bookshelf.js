@@ -1,6 +1,6 @@
 import React from "react";
 
-const Bookshelf = (props) => {
+const Bookshelf = () => {
   return (
     <div className="bookshelf">
       <p>
@@ -8,10 +8,13 @@ const Bookshelf = (props) => {
         read.
       </p>
       <ul>
+        <li>Poor Charlie's Almanack</li>
+        <li>Man's Search For Meaning</li>
         <li>Tools of Titans</li>
         <li>Benjamin Franklin: An American Life</li>
         <li>The Republic</li>
         <li>Fooled By Randomness</li>
+        <li>Seeking Wisdom: From Darwin to Munger</li>
         <li>The Ultimate Hitchhiker's Guide to the Galaxy</li>
         <li>Letters From a Self-Made Merchant to his Son</li>
         <li>Rationality: From AI to Zombies</li>

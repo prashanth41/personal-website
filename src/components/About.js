@@ -1,11 +1,12 @@
 import React from "react";
 
-const About = (props) => {
+const About = () => {
   return (
     <div className="about">
+      <h1>Prashanth Kandhuri</h1>
       <p>
-        My name's Prashanth Kandhuri. I am a programmer and interested in all
-        things related to technology and science. I love to play Cricket and
+        My name's Prashanth Kandhuri. I am a programmer and I am interested in
+        all things related to technology and science. I love to play Cricket and
         Football.
       </p>
       <p>
