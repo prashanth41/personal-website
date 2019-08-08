@@ -62,6 +62,10 @@ const People = () => {
           <a href="https://twitter.com/worrydream">Twitter</a>]
         </li>
         <li>
+          Tristan Hume [<a href="http://thume.ca/">Blog</a>] [
+          <a href="https://twitter.com/trishume">Twitter</a>]
+        </li>
+        <li>
           Jeff Dean [<a href="https://twitter.com/JeffDean">Twitter</a>]
         </li>
         <li>
